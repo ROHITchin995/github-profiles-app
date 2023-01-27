@@ -4,8 +4,7 @@ stored with pagination. The user can view multiple pages and view each user's Gi
 Uses API - 
 https://api.github.com
 
-HomePage -
+
 [!alt text](home.jpg)
-Pagination
 [!alt text](page.jpg)
 [!alt text](page2.jpg)
