@@ -159,3 +159,15 @@ code {
   padding: 2rem 3.5rem;
   text-align: center;
 }
+.card img {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 0.75rem;
+}
+.card h4 {
+  margin-bottom: 1.5rem;
+  font-size: 0.85rem;
+  color: var(--clr-grey-5);
+}
