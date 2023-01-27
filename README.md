@@ -5,6 +5,6 @@ Uses API -
 https://api.github.com
 
 
-[!alt text](home.jpg)
-[!alt text](page.jpg)
-[!alt text](page2.jpg)
+![alt text](home.jpg)
+![alt text](page.jpg)
+![alt text](page2.jpg)
